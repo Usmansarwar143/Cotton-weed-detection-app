@@ -85,8 +85,8 @@ Cotton-Weed-Detection-App/
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/SibghaMursaleen/Cotton-Weed-Detection-App.git
-cd Cotton-Weed-Detection-App
+git clone https://github.com/Usmansarwar143/Cotton-weed-detection-app.git
+cd Cotton-weed-detection-app
 ```
 
 **Step 2 — Pull the LFS model file**
@@ -172,8 +172,9 @@ npm run dev
 
 | Name | Role |
 |------|------|
-| **[Sibgha Mursaleen](https://github.com/SibghaMursaleen)** | Project Developer |
 | **[Muhammad Usman Sarwar](https://github.com/Usmansarwar143)** | Project Developer |
+| **[Sibgha Mursaleen](https://github.com/SibghaMursaleen)** | Project Developer |
+
 
 **Institution:** Sukkur IBA University — Department of Computer Systems Engineering
 
@@ -185,8 +186,8 @@ This project is part of a larger Cotton Weed Detection system:
 
 | Repository | Description |
 |------------|-------------|
-| **[Cotton Weed Detection App](https://github.com/SibghaMursaleen/Cotton-Weed-Detection-App)** *(this repo)* | Flutter mobile app with TFLite on-device inference |
-| **[Cotton Weed Detection Website](https://github.com/SibghaMursaleen/Cotton-Weed-Detection-Website)** | Web version of the weed detection system |
+| **[Cotton Weed Detection App](https://github.com/Usmansarwar143/Cotton-weed-detection-app)** *(this repo)* | Flutter mobile app with TFLite on-device inference |
+| **[Cotton Weed Detection Website](https://github.com/Usmansarwar143/Cotton-weed-detection-website)** | Web version of the weed detection system |
 
 ---
 
