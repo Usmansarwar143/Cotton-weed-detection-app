@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Clean Eco Outlined Path -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M12,22c4.97,0 9,-4.03 9,-9c0,-4.97 -9,-13 -9,-13S3,8.03 3,13C3,17.97 7.03,22 12,22z M12.8,7.9 C12.6,9.1 13.9,13 18.1,14.6l-5.6-2.4L7.8,17.9C9,14.5 9.6,12.8 12.8,7.9z"/>
+</vector>
